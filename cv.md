@@ -9,8 +9,8 @@ Highly qualified QA engineer with over 4 years experience in manual testing web 
 ***************************************
 ###### Relevant experience
 
-* **iTechArt**          2019 - present time
-###### Software Testing Engineer
+* **iTechArt**  -  Software Testing Engineer    (2019 - present time)
+
 * **Key responsibilities:**
 *	Test Documentation development/updating
 *	Participated in daily meetings, analyzed user stories, identified and resolved gaps in user stories business requirements
