@@ -1,10 +1,10 @@
 #### Iryna Sarokina
 ###### Software Testing Engineer
-![photo](C:\Users\Iryna.Sarokina\cv_photo.png)
+![](photo.png)
 
 ##### About me
 
-Highly qualified QA engineer with over 4 years experience in manual testing web and mobile applications.- I'm a team player and work in close cooperation with developers, BA and QA team members. I'm engaged in Scrum meetings, carried out requirements analysis, test documentation development, execution and maintenance I worked mostly on educational and fintech projects. I'm highly-motivated and driven by results, responsible and non-conflict, highly interested in improving my own skill and a quick learner. Currently i'm aiming to develop as a QA Automation engineer o ra mixed QA specialist.
+Highly qualified QA engineer with over 4 years experience in manual testing web and mobile applications. I'm a team player and work in close cooperation with developers, BAs and QA team members. I'm engaged in Scrum meetings, carried out requirements analysis, test documentation development, execution and maintenance. I worked mostly on educational and fintech projects. I'm highly-motivated and driven by results, responsible and non-conflict, highly interested in improving my own skill and a quick learner. Currently I'm aiming to develop as a QA Automation engineer or a mixed QA specialist.
 
 ***************************************
 ###### Relevant experience
