@@ -1,6 +1,6 @@
 #### Iryna Sarokina
 ###### Software Testing Engineer
-![](photo.png)
+![](/photo.png)
 
 ##### About me
 
