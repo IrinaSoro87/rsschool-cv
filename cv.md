@@ -1,6 +1,6 @@
 #### Iryna Sarokina
 ###### Software Testing Engineer
-![](/photo.png)
+![](/rsschool-cv/photo.png)
 
 ##### About me
 
