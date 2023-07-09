@@ -163,7 +163,7 @@
     width: 14px;
     height: 14px; 
     background-size: 14px 14px;
-    background-image: url("https://icons8.com/icon/99790/full-stop");
+    background: transparent url('../assets/img/dot.png') no-repeat;
   }
   
   .section-item span {
@@ -180,7 +180,7 @@
     color: #45172d;
   }
   
-  /* .contacts-item:before {
+  .contact-item:before {
     content: "";
     position: absolute;
     top: 1px;
@@ -190,39 +190,27 @@
     background-size: contain;
     background-repeat: no-repeat;
   }
-   */
-  /* .contacts-item:nth-child(1):before {
-    background-image: url("assets/svg/1.svg");
+ 
+ .contact-item:nth-child(1):before {
+    background: transparent url('../assets/img/location-24.png') no-repeat;
   }
   
-  .contacts-item:nth-child(2):before {
+  .contact-item:nth-child(2):before {
     top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/svg/2.svg");
+    background: transparent url('../assets/img/email-24.png') no-repeat;
   }
   
-  .contacts-item:nth-child(3):before {
+  .contact-item:nth-child(3):before {
     top: 4px;
-    left: 0px;
-    width: 19px;
-    height: 19px;
-    background-image: url("assets/svg/3.svg");
+    background: transparent url('../assets/img/chat-24.png') no-repeat;
   }
   
-  .contacts-item:nth-child(4):before {
+  .contact-item:nth-child(4):before {
     top: 3px;
-    left: 0px;
-    width: 21px;
-    height: 21px;
-    background-image: url("assets/svg/4.svg");
+    background: transparent url('../assets/img/github-24.png') no-repeat;
   }
   
-  .contacts-item:nth-child(5):before {
-    background-image: url("assets/svg/5.svg");
-  }
-   */
+  
   .footer {
     background-color: #43263c;
     padding: 20px;  
