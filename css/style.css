@@ -192,12 +192,14 @@
   }
  
  .contact-item:nth-child(1):before {
-    background: transparent url('../assets/img/location-24.png') no-repeat;
+    content: url('../assets/img/location-24.png');
+    /* background: transparent url('../assets/img/location-24.png') no-repeat; */
   }
   
   .contact-item:nth-child(2):before {
+    content: url('../assets/img/email-24.png');
     top: 3px;
-    background: transparent url('../assets/img/email-24.png') no-repeat;
+    /* background: transparent url('../assets/img/email-24.png') no-repeat; */
   }
   
   .contact-item:nth-child(3):before {
